@@ -5,6 +5,10 @@
   status = auto
   ui = auto
 
+[user]
+    name = holyniaina
+    email = holy.ravonjiarimanana@gmail.com
+
 [color "branch"]
   current = green
   remote = yellow
